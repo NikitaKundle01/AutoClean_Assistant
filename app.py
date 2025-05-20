@@ -6,7 +6,7 @@ from datetime import datetime
 from modules.cleaner import DataCleaner
 from modules.db_connector import DBHandler
 from modules.auth import AuthManager
-from ydata_profiling import ProfileReport
+from pandas_profiling import ProfileReport
 
 # Page configuration
 st.set_page_config(
