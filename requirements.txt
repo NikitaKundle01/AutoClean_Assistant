@@ -6,5 +6,4 @@ mysql-connector-python
 openpyxl  # For Excel support
 ydata-profiling  # For data profiling
 python-dotenv  # For environment variablesv
-streamlit_pandas_profiling
 pymysql
