@@ -3,7 +3,6 @@ pandas
 numpy
 scikit-learn
 mysql-connector-python
-openpyxl  # For Excel support
-ydata-profiling  # For data profiling
+openpyxl  # For Excel support]
 python-dotenv  # For environment variablesv
 pymysql
